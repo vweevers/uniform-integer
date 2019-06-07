@@ -6,7 +6,7 @@
 [![npm status](http://img.shields.io/npm/v/uniform-integer.svg)](https://www.npmjs.org/package/uniform-integer)
 [![node](https://img.shields.io/node/v/uniform-integer.svg)](https://www.npmjs.org/package/uniform-integer)
 [![Travis build status](https://img.shields.io/travis/vweevers/uniform-integer.svg?label=travis)](http://travis-ci.org/vweevers/uniform-integer)
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Greenkeeper badge](https://badges.greenkeeper.io/vweevers/uniform-integer.svg)](https://greenkeeper.io/)
 
 ## Usage
 
